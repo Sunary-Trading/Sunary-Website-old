@@ -38,6 +38,11 @@ const LinkData = [
         disabled: true
       },
       {
+        title: '逐日跟單免責聲明',
+        link: '/fo-tos',
+        disabled: false
+      },
+      {
         title: '隱私權政策',
         link: '/',
         disabled: true

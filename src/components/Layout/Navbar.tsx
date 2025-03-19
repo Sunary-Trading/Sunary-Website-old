@@ -40,7 +40,7 @@ const Navbar = () => {
     {
       text: "官方驗證",
       icon:  ShieldCheckIcon,
-      disabled: false,
+      disabled: true,
       link: "/verify",
     },
     // {
