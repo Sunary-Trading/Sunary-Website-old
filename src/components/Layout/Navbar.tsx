@@ -37,12 +37,6 @@ const Navbar = () => {
       disabled: false,
       link: "/agenda",
     },
-    {
-      text: "官方驗證",
-      icon:  ShieldCheckIcon,
-      disabled: true,
-      link: "/verify",
-    },
     // {
     //   text: "市場行情",
     //   icon: ChartBarSquareIcon,
