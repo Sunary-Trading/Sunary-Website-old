@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export", // 確保 Next.js 使用靜態匯出模式
   reactStrictMode: true,
   images: {
     remotePatterns: [
