@@ -3,7 +3,7 @@ import Head from "next/head"
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import { LayoutData } from "@/types/Layout/Layout";
-import Particles from "../particles";
+// import Particles from "../particles";
 
 const Layout = ({ children }: LayoutData) => {
   return (
